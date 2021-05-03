@@ -21,8 +21,6 @@
 /* _____________________ */
 
 .section__button--lightslategrey.section__button--lightslategrey {
-  right: 15vw;
-  position: absolute;  
   background-color: hsl(210, 14%, 53%);
   color: hsl(0, 0%, 100%);
 }
